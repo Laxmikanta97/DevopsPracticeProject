@@ -1,0 +1,22 @@
+
+
+IF YES, WHEN DO YOU USE THE SOAP IN SCHOOL? 
+============================================
+
+Yellow- Import sheet data is same as export sheet data but in portal it's coming not selected 
+Red- first option is missing in export and nothing selected in portal
+purple-In export and in portal the value should be first option but its coming as Yes , which is not an option
+green-In import first three option selected, but in export first option is not coming and in portal only second option is coming
+Blue-In export first and third option is selected but in export only second option is coming and in portal not selected showing
+gray-In import second and third option selected, but in export coming correctly but in portal third option is not coming
+Pink-In export all the options are no so in but the value should be NA
+orange-Import first two option is selected but in export only second option is coming and in portal not selected is displaying
+cyan-
+Blank/Nocolor-No changes required
+
+DARK RED BERRY-The value is na in Import , but datas are coming wrong in both export and portal
+
+
+
+
+
